@@ -1,21 +1,21 @@
 # Description
 This application uses React to create a simple calculator that is capable of addition, subtraction, and resetting.
 
-<img width="1855" height="860" alt="Screenshot 2025-09-12 050931" src="https://github.com/user-attachments/assets/cce3e86b-924b-4435-b2cf-c46eb6d75795" />
+<img width="1855" height="860" alt="Screenshot 2025-09-12 050931" src="https://github.com/user-attachments/assets/aa950181-53d8-455c-90a8-e28b91941333" />
 
 ## Components
-The Display component shows values of buttons and displays total value \
-The Buttons component provides buttons to perform various operations and clears display. \
-The App component is the root component that manages the state of the value and renders both the Display and Buttons components. 
+- The Display component shows values of buttons and displays total value 
+- The Buttons component provides buttons to perform various operations and clears display. 
+- The App component is the root component that manages the state of the value and renders both the Display and Buttons components. 
 
 ## Usage
 To use this calculator, follow these steps: 
 
-Clone the repository: git clone https://github.com/WinnieYuDev/react-calculator.git \
-Navigate to the app directory in terminal: cd app \
-Install dependencies in terminal: npm install \
-Run the app by pasting this into the terminal: npm run dev \
-Open your browser and navigate to http://localhost:3000/ 
+- Clone the repository: git clone https://github.com/WinnieYuDev/react-calculator.git 
+- Navigate to the app directory in terminal: cd app 
+- Install dependencies in terminal: npm install 
+- Run the app by pasting this into the terminal: npm run dev 
+- Open your browser and navigate to http://localhost:3000/ 
 
 # Getting Started with Create React App
 
