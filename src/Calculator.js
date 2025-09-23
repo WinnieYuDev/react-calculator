@@ -1,8 +1,9 @@
+//React App Template taken from Create React App
 import React, { useState } from 'react';
 import { evaluate } from 'mathjs';
 import './Calculator.css';
 
-
+// Calculator component referenced from stack overflow and youtube tutorials, https://www.youtube.com/watch?v=I5kj-YsmWjM
 function Calculator() {
   const [display, setDisplay] = useState('');
 
@@ -54,3 +55,4 @@ function Calculator() {
 }
 
 export default Calculator;
+//End of referenced code

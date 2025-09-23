@@ -1,3 +1,5 @@
+//React App Template taken from Create React App
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

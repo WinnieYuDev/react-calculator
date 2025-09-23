@@ -1,3 +1,5 @@
+/* React App Template taken from Create React App */
+
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
