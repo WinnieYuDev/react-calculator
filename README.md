@@ -4,9 +4,14 @@ This application uses React to create a simple calculator that is capable of add
 <img width="1855" height="860" alt="Screenshot 2025-09-12 050931" src="https://github.com/user-attachments/assets/aa950181-53d8-455c-90a8-e28b91941333" />
 
 ## Calculator Components
-- The Display component shows values of buttons and displays total value 
-- The Buttons component provides buttons to perform various operations and clears display. 
-- The App component is the root component that manages the state of the value and renders both the Display and Buttons components. 
+- In the Display component, it shows values of buttons and displays total value 
+- In the Buttons component, it provides buttons to perform various operations and clears display. 
+
+## Lessons
+- Use of React, node.js, npm
+- Learning root
+- Deploying on dom
+- Estabilish DOM elements
 
 ## How to Use
 To use this calculator, follow these steps: 
@@ -20,6 +25,8 @@ To use this calculator, follow these steps:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
