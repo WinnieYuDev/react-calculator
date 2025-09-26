@@ -10,8 +10,9 @@ This application uses React to create a simple calculator that is capable of add
 ## Lessons
 - Use of React, node.js, npm
 - Learning root
-- Deploying on dom
+- Deploying on domain
 - Estabilish DOM elements
+- Use of Math functions in JS
 
 ## How to Use
 To use this calculator, follow these steps: 
